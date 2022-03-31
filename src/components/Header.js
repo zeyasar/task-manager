@@ -2,12 +2,6 @@ import React from 'react'
 import Button from './Button'
 
 const Header = ({showAddTask, toggleShow}) => {
-
-    const handleClick = () =>{
-        
-    }
-
-
   return (
     <div className='header'>
         <h1>Task Manager</h1>
